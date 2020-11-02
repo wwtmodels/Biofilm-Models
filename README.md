@@ -12,7 +12,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1%20PS%20IN%20GRANULAR%20REACTOR-990000?style=for-the-badge)](https://github.com/wwtmodels/Biofilm-Models/releases/download/v1/ADM1.PS.granular.reactor.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Biofilm-Models/v1/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Biofilm-Models)
 
-<strong>2. PN/ANXimplemented in a granular reactor </strong>  
+<strong>2. PN/ANX implemented in a granular reactor </strong>  
 
 The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina),Hannah Feldman, Vicente T. Monje, Pedram Ramin, Kasper Kjellberg, Damien Batstone, [Ulf Jeppsson](https://github.com/ulfjeppsson), Krist Gernaey. The model is described in the following paper: 
 
