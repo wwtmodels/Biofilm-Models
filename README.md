@@ -14,7 +14,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 <strong>2. PN/ANX implemented in a granular reactor </strong>  
 
-The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina),Hannah Feldman, Vicente T. Monje, Pedram Ramin, Kasper Kjellberg, [Damien J Batstone](https://github.com/damienbatstone), [Ulf Jeppsson](https://github.com/ulfjeppsson), [Krist V. Gernaey](https://github.com/kristgernaey). The model is described in the following paper: 
+The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), Hannah Feldman, Vicente T. Monje, Pedram Ramin, Kasper Kjellberg, [Damien J Batstone](https://github.com/damienbatstone), [Ulf Jeppsson](https://github.com/ulfjeppsson), [Krist V. Gernaey](https://github.com/kristgernaey). The model is described in the following paper: 
 
 [Flores-Alsina X., Feldman H., Monje V.T., Ramin P., Kjellberg K., Batstone D.J., Jeppsson U., Gernaey K.V. (2019). Evaluation of anaerobic digestion post-treatment options using an integrated model-based approach Water Research, 156, 264-276](https://doi.org/10.1016/j.watres.2019.02.035). 
 
