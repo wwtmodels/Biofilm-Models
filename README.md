@@ -14,7 +14,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 <strong>2. PN/ANX implemented in a granular reactor </strong>  
 
-The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), Umair Aslam, [Krist V. Gernaey](https://github.com/kristgernaey), Alberte Regueira, Ramon Ganigué. The model is described in the following paper: 
+The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), Hannah Feldman, Vicente T. Monje, Pedram Ramin, Kasper Kjellberg, [Damien J Batstone](https://github.com/damienbatstone), [Ulf Jeppsson](https://github.com/ulfjeppsson), [Krist V. Gernaey](https://github.com/kristgernaey). The model is described in the following paper: 
 
 [Flores-Alsina X., Feldman H., Monje V.T., Ramin P., Kjellberg K., Batstone D.J., Jeppsson U., Gernaey K.V. (2019). Evaluation of anaerobic digestion post-treatment options using an integrated model-based approach Water Research, 156, 264-276](https://doi.org/10.1016/j.watres.2019.02.035). 
 
@@ -24,7 +24,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 <strong>3. Isobutyric and n-butyric acid production from H2 and CO2 by Clostridium luticellarii in a hfMBR </strong>  
 
-The Main developers are: Quinten Mariën,  [Xavier Flores-Alsina](https://github.com/xfalsina), Hannah Feldman, Vicente T. Monje, Pedram Ramin, Kasper Kjellberg, [Damien J Batstone](https://github.com/damienbatstone), [Ulf Jeppsson](https://github.com/ulfjeppsson), [Krist V. Gernaey](https://github.com/kristgernaey). The model is described in the following paper: 
+The Main developers are: Quinten Mariën,  [Xavier Flores-Alsina](https://github.com/xfalsina), Umair Aslam, [Krist V. Gernaey](https://github.com/kristgernaey), Alberte Regueira, Ramon Ganigué. The model is described in the following paper: 
 
 [Mariën, Q., Flores-Alsina, X., Aslam, U., Gernaey, K. V., Regueira, A., & Ganigué, R. (2024). Isobutyric and n-butyric acid production from H2 and CO2 by Clostridium luticellarii in a hollow fiber membrane biofilm reactor: Reactor operation and process modelling. Chemical Engineering Journal, 495, 153216](https://doi.org/10.1016/j.cej.2024.153216). 
 
