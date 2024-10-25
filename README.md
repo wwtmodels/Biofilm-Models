@@ -30,7 +30,7 @@ The Main developers are: Quinten Mariën,  [Xavier Flores-Alsina](https://github
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20hfMBRreactor-990000?style=for-the-badge)](https://github.com/wwtmodels/Biofilm-Models/releases/download/v3/hfMBR_pH_gradients.zip)[![](https://img.shields.io/github/downloads/wwtmodels/Biofilm-Models/v2/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Biofilm-Models)
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20hfMBRreactor-990000?style=for-the-badge)](https://github.com/wwtmodels/Biofilm-Models/releases/download/v3/hfMBR_pH_gradients.zip)[![](https://img.shields.io/github/downloads/wwtmodels/Biofilm-Models/v3/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Biofilm-Models)
 
 
 ![logo](WWTMlogo.png)
