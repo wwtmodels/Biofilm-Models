@@ -33,4 +33,16 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20hfMBRreactor-990000?style=for-the-badge)](https://github.com/wwtmodels/Biofilm-Models/releases/download/v3/hfMBR_pH_gradients.zip)[![](https://img.shields.io/github/downloads/wwtmodels/Biofilm-Models/v3/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Biofilm-Models)
 
 
+<strong>4. PN/ANX implemented in a granular reactor (N2O production included) </strong>  
+
+The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina) & [Krist V. Gernaey](https://github.com/kristgernaey). The model is described in the following paper: 
+
+[Flores-Alsina, X., Vangsgaard, A. K., Carreno, N. U., Nielsen, P. H., & Gernaey, K. V. (2025). Quantifying, predicting, and mitigating nitrous oxide emissions in a full-scale partial nitritation/anammox reactor treating reject water. Water Research, 123200.](https://doi.org/10.1016/j.watres.2025.123200). 
+
+This version of the model is adapated to be run in Matlab 2019b (or newer).
+
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20PN%20ANX%20IN%20GRANULAR%20REACTOR-990000?style=for-the-badge)](https://github.com/wwtmodels/Biofilm-Models/releases/download/v2/ANX.granular.reactor.zip)[![](https://img.shields.io/github/downloads/wwtmodels/Biofilm-Models/v2/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Biofilm-Models)
+
+
+
 ![logo](WWTMlogo.png)
