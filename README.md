@@ -41,7 +41,7 @@ The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina) & [
 
 This version of the model is adapated to be run in Matlab 2022b (or newer).
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20PN%20ANX%20IN%20GRANULAR%20REACTOR-990000?style=for-the-badge)](https://github.com/wwtmodels/Biofilm-Models/releases/download/v4/ANX.granular.reactor.zip)[![](https://img.shields.io/github/downloads/wwtmodels/Biofilm-Models/v2/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Biofilm-Models)
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20PN%20ANX%20WITH%20N2O%20EMISSIONS-990000?style=for-the-badge)](https://github.com/wwtmodels/Biofilm-Models/releases/download/v4/PNANX_Github2025.zip)[![](https://img.shields.io/github/downloads/wwtmodels/Biofilm-Models/v4/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Biofilm-Models)
 
 
 
